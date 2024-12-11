@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-balenalib/armv7hf-debian:sid-build-20241201
+balenalib/aarch64-debian:sid-build-20241201
