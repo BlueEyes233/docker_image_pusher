@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-multiarch/qemu-user-static:xtensaeb-7.2.0-1
+balenalib/armv7hf-debian:sid-build-20241201
