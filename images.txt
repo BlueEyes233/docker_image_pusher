@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ventz/bind:9.16.15-r0
+multiarch/qemu-user-static:xtensaeb-7.2.0-1
