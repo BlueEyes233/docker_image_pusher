@@ -7,4 +7,5 @@
 # balenalib/aarch64-debian:sid-build-20241201
 # nacos/nacos-server:v2.4.0
 # linuxserver/emulatorjs:1.9.2
-sonatype/nexus:2.15.2-03
+# sonatype/nexus:2.15.2-03
+sonatype/nexus3:3.80.0-alpine
