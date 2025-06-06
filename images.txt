@@ -8,4 +8,5 @@
 # nacos/nacos-server:v2.4.0
 # linuxserver/emulatorjs:1.9.2
 # sonatype/nexus:2.15.2-03
-sonatype/nexus3:3.80.0-alpine
+# sonatype/nexus3:3.80.0-alpine
+sonatype/nexus3:3.79.1-alpine
